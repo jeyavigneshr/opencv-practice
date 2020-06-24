@@ -1,2 +1,4 @@
 # opencv-practice
-Repository contains basics of OpenCV and 3 use cases to practice
+1. Repository contains basics of OpenCV
+2. Developed Virtual Paint app needs a little modification on colour detection
+
